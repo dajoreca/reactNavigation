@@ -35,12 +35,9 @@ const App = () => {
               component={Start}
               options={{
                 title: 'Componente Principal',
-
               }}
-
               // si se quiere poner estilo en solo una pantalla.
               //options={{
-              //  title: 'Componente Principal',
               //  headerTitleAlign: 'center', //para android left, center (right no funciona bien)
               //  headerStyle:{
               //    backgroundColor: '#F4511E'
